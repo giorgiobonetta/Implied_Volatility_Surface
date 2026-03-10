@@ -1,5 +1,4 @@
 # Implied_Volatility_Surface
-# Implied Volatility Surface Modeling
 
 ## Project Overview
 
